@@ -1,0 +1,25 @@
+.app-icon {
+  border-radius: 17.544%;
+  box-sizing: border-box;
+  height: 147px;
+  width: 147px;
+
+  &.small {
+    height: 50px;
+    width: 50px;
+  }
+}
+
+.app-title {
+  color: rgb(29, 29, 31);
+  margin-top: 10px;
+  margin-bottom: 3px;
+  font-size: 34px;
+  line-height: 1.20596;
+  font-weight: 600;
+  letter-spacing: .018em;
+}
+
+.download-app-store {
+  margin: 2em;
+}
